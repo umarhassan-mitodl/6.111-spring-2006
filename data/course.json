@@ -1,0 +1,58 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Computer Design and Engineering"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Electronics"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Digital Systems"
+    ]
+  ],
+  "legacy_uid": "45a9b210-99a1-1290-4e51-1321fcd311e6",
+  "instructors": {
+    "content": [
+      "0c707f19-ab85-c294-ef84-8df096d812be"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "06faa568-a75d-3e94-98da-09d18f598590",
+    "website": "6-111-introductory-digital-systems-laboratory-spring-2006"
+  },
+  "course_title": "Introductory Digital Systems Laboratory",
+  "hide_download": true,
+  "course_description": "6.111 is reputed to be one of the most demanding classes at MIT, exhausting many students' time and creativity. The course covers digital design topics such as digital logic, sequential building blocks, finite-state machines, FPGAs, timing and synchronization. The semester begins with lectures and problem sets, to introduce fundamental topics before students embark on lab assignments and ultimately, a digital design project. The students design and implement a final digital project of their choice, in areas such as games, music, digital filters, wireless communications, video, and graphics. The course relies on extensive use of Verilog\u00ae for describing and implementing digital logic designs on state-of-the-art FPGA.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.111",
+  "course_image_thumbnail": {
+    "content": "ff7f96a7-dbfd-d267-b610-ddd0b8cb0688",
+    "website": "6-111-introductory-digital-systems-laboratory-spring-2006"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Projects with Examples"
+  ],
+  "site_uid": "81ac5a40-7cf5-4161-bae7-36d483c3210a",
+  "site_short_id": "6.111-spring-2006",
+  "site_url_path": "courses/6-111-introductory-digital-systems-laboratory-spring-2006",
+  "title": "Course Metadata"
+}
